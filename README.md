@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Vinícius Marques 👋
 
-<!--
-**VyniMarques/VyniMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+Sou formado em Engenharia de Software pelo Inatel. Tenho grande interesse nas áreas de **desenvolvimento backend** e **data science**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que eu uso
+
+- Python
+- SQL
+- Git & GitHub
+- Docker
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marques-dev/)
+
+
+---
